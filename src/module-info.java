@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mamadoualysy
+ *
+ */
+module JavaCourse {
+}
